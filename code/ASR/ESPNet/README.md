@@ -24,6 +24,8 @@ The experiment results on Aishell-1 benchmark are listed as following.
 > cd tools/
 > make TH_VERSION=1.9.0
 ```
+> if have problem use 
+make clean
 > Tested pytorch version: 1.7.1+cu110, 1.9.0+cu111
 
 3. Build kaldi
